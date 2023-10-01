@@ -1,7 +1,7 @@
 streamlit
 replicate
 PyPDF2
-pinecone-io
+pinecone-client
 pypdf
 langchain
 pdf2image
