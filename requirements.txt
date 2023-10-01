@@ -7,3 +7,5 @@ langchain
 pdf2image
 pytesseract
 Pillow 
+sentence-transformers
+
