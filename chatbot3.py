@@ -19,7 +19,7 @@ import pytesseract
 from PIL import Image
 import subprocess
 
-os.environ['REPLICATE_API_TOKEN'] = "r8_61ZBBa1uv7QmgSOZSzAn1KpWM5wSGq40w1krB"
+os.environ['REPLICATE_API_TOKEN'] = "r8_cWIFYqmd0shQnOjUXpvUhmRo100oFCF0ScGzn"
 pinecone.init(api_key='42c2d8e4-e167-4087-8723-1b8701369251', environment='gcp-starter')
 #pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
 
