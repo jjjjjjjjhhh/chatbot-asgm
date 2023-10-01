@@ -1,2 +1,9 @@
 streamlit
 replicate
+PyPDF2
+pinecone-io
+pypdf
+langchain
+pdf2image
+pytesseract
+Pillow 
