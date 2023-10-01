@@ -50,6 +50,7 @@ with st.sidebar:
 
 uploaded_file = st.sidebar.file_uploader("", type=["pdf"], key="file_uploader")
 
+
 # Store LLM generated responses
 if "messages" not in st.session_state.keys():
     st.session_state.messages = [{"role": "assistant", "content": "Hi, how can I help you?"}]
