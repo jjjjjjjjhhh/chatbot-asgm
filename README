@@ -1,6 +1,7 @@
-pip install streamlit
-pip install streamlit_chat
-pip install pinecone-client langchain
-pip install replicate
-pip install pypdf
-pip install sentence-transformers
+required to install
+streamlit
+streamlit_chat
+pinecone-client langchain
+replicate
+pypdf
+sentence-transformers
